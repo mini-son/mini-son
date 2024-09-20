@@ -1,6 +1,6 @@
 ###  
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=기회를%20만드는%20개발자%20&descAlignY=51&descAlign=62">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Backend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=문제를%20해결하는%20개발자%20&descAlignY=51&descAlign=62">
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
