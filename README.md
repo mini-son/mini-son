@@ -31,9 +31,3 @@
 </div>
 
 <br>
-<div align=center><h1>💡핵심 역량</h1></div>
-<h5 align=center>- DB설계 및 SQL 활용 능력</h5>
-<h5 align=center>- JPA, MyBatis 활용 CRUD구현</h5>
-<h5 align=center>- SpringBoot MVC패턴 구현</h5>
-<h5 align=center>- JSP/Servelt MVC패턴 구현</h5>
-<h5 align=center>- Ajax를 이용한 비동기 처리</h5>
